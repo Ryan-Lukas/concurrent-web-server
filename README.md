@@ -20,7 +20,7 @@ To build and initialize the server type in console:
 make
 ./friendlist <port>
 ```
-where <port> is between 1024 and 65535.
+where < port > is between 1024 and 65535.
   
 Server Queries
 ------------
