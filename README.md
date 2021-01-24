@@ -12,6 +12,8 @@ Background
 
 This project we implemented and modified a web server to implement a concurrent friend-list server.
 
+*NOTE: My implemented code is within friendlist.c.*
+
 Starting
 ------------
 
